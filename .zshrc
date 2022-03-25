@@ -19,9 +19,18 @@ fi
 # custom aliases
 alias ll='ls -al'
 alias cron='crontab -e'
+#alias docker='sudo docker'
 
 # force editor to be nano for 'crontab -e'
 export EDITOR='/usr/bin/nano'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# pyenv requirements
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
+
+# update env variables
+HISTTIMEFORMAT="%Y-%m-%d %T "
