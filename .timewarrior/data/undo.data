@@ -1,0 +1,11 @@
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220402T193240Z","tags":["+work","timesheet"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220402T193240Z","tags":["+work","timesheet"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220402T193240Z","end":"20220402T193501Z","tags":["+work","timesheet"]}
