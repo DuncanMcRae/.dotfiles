@@ -9,3 +9,316 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20220402T193240Z","end":"20220402T193501Z","tags":["+work","timesheet"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220403T174029Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T174029Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T173000Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T173000Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T173000Z","end":"20220403T174507Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T173000Z","end":"20220403T174507Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T170000Z","end":"20220403T171507Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T170000Z","end":"20220403T171507Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T170000Z","end":"20220403T172507Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220403T181749Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T181749Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T181749Z","end":"20220403T182558Z","tags":["learn-about-task-timewarrior-taskopen","rnd"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220403T182924Z","tags":["+rnd","opendns"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T182924Z","tags":["+rnd","opendns"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T182924Z","end":"20220403T182934Z","tags":["+rnd","opendns"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220403T191108Z","tags":["+rnd","look-into-wireguard"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T191108Z","tags":["+rnd","look-into-wireguard"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T191108Z","end":"20220403T194359Z","tags":["+rnd","look-into-wireguard"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220403T194459Z","tags":["+rnd","windows-vnc-client"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T194459Z","tags":["+rnd","windows-vnc-client"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T194459Z","tags":["+rnd","windows-vnc-client"],"annotation":"mRemoteNG"}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T194459Z","tags":["+rnd","windows-vnc-client"],"annotation":"mRemoteNG"}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T194459Z","end":"20220403T204056Z","tags":["+rnd","windows-vnc-client"],"annotation":"mRemoteNG"}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220403T204114Z","tags":["owgp","review-ncr-dfr-templates"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220403T204114Z","tags":["owgp","review-ncr-dfr-templates"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220403T204114Z","end":"20220404T015552Z","tags":["owgp","review-ncr-dfr-templates"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220404T040102Z","tags":["create-isf-for-ix-hmi-video-timeouts","owgp"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220404T040102Z","tags":["create-isf-for-ix-hmi-video-timeouts","owgp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220404T040102Z","end":"20220404T040205Z","tags":["create-isf-for-ix-hmi-video-timeouts","owgp"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220404T043127Z","tags":["eiva-milestones\/requirements","owgp"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220404T043127Z","tags":["eiva-milestones\/requirements","owgp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220404T043127Z","end":"20220404T184851Z","tags":["eiva-milestones\/requirements","owgp"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220404T184851Z","tags":["2sec-log-files","owgp"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220404T184851Z","tags":["2sec-log-files","owgp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220404T184851Z","end":"20220404T210755Z","tags":["2sec-log-files","owgp"]}
+txn:
+  type: interval
+  before: {"id":2,"start":"20220404T043127Z","end":"20220404T184851Z","tags":["eiva-milestones\/requirements","owgp"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220404T220859Z","tags":["eiva-milestones\/requirements","owgp"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220404T220859Z","tags":["eiva-milestones\/requirements","owgp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220404T220859Z","end":"20220405T021113Z","tags":["eiva-milestones\/requirements","owgp"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220405T025631Z","tags":["owgp","update-sbp-firmware-test-SESCTL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220405T025631Z","tags":["owgp","update-sbp-firmware-test-SESCTL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220405T025631Z","end":"20220405T052334Z","tags":["owgp","update-sbp-firmware-test-SESCTL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220405T025631Z","end":"20220405T052334Z","tags":["owgp","update-sbp-firmware-test-SESCTL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220405T025631Z","end":"20220405T042334Z","tags":["owgp","update-sbp-firmware-test-SESCTL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220405T072400Z","tags":["1 ras-management-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220405T072400Z","tags":["1 ras-management-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220405T072400Z","end":"20220405T183108Z","tags":["1 ras-management-meeting"]}
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220405T183108Z","tags":["owgp","wp7-document-review"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220405T183108Z","tags":["owgp","wp7-document-review"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220405T183108Z","end":"20220405T184753Z","tags":["owgp","wp7-document-review"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220405T185039Z","tags":["dc-report","owgp"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220405T185039Z","tags":["dc-report","owgp"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220405T185039Z","end":"20220405T185952Z","tags":["dc-report","owgp"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220405T230447Z","tags":["equipment-list","sg-dev001"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220405T230447Z","tags":["equipment-list","sg-dev001"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220405T230447Z","end":"20220406T014524Z","tags":["equipment-list","sg-dev001"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220406T202950Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T202950Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T202950Z","end":"20220406T203302Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T202950Z","end":"20220406T203302Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T133000Z","end":"20220406T133312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T133000Z","end":"20220406T133312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T190000Z","end":"20220406T190312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T190000Z","end":"20220406T190312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T190000Z","end":"20220406T190312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T190000Z","end":"20220406T190312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T190000Z","end":"20220406T190312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T190000Z","end":"20220406T190312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T190000Z","end":"20220406T200312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T190000Z","end":"20220406T200312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T190000Z","end":"20220406T200312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220406T190000Z","end":"20220406T200312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220406T190000Z","end":"20220406T203312Z","tags":["owgp","trial-1-wrap-up-meeting"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220408T005033Z","tags":["+rnd","openvpn-or-wireguard"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220408T005033Z","tags":["+rnd","openvpn-or-wireguard"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220408T005033Z","end":"20220411T185954Z","tags":["+rnd","openvpn-or-wireguard"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220408T005033Z","end":"20220411T185954Z","tags":["+rnd","openvpn-or-wireguard"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220408T005033Z","end":"20220411T065954Z","tags":["+rnd","openvpn-or-wireguard"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220418T185439Z","tags":["weekly-meeting"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220418T185439Z","tags":["weekly-meeting"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220418T185439Z","end":"20220418T190840Z","tags":["weekly-meeting"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220418T191038Z","tags":["ims-work"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220418T191038Z","tags":["ims-work"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220418T191038Z","end":"20220418T194956Z","tags":["ims-work"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20220418T202608Z","tags":["ims-work"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20220418T202608Z","tags":["ims-work"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20220418T202608Z","end":"20220418T232157Z","tags":["ims-work"]}

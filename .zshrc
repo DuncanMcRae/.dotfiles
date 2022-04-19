@@ -19,8 +19,8 @@ fi
 # custom aliases
 alias ll='ls -al'
 alias cron='crontab -e'
-alias drix='sudo openvpn --config /home/duncan/Downloads/openvpn-drix9/operator4_drix9.ovpn'
-alias timews='timew summary'
+alias drix='sudo openvpn --config /home/duncan/Documents/sulmara/ras/openvpn-drix9/operator4_drix9.ovpn'
+alias ts='timew summary :id'
 #alias docker='sudo docker'
 
 # force editor to be nano for 'crontab -e'

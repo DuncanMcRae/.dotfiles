@@ -1,4 +1,25 @@
 {
+  "+rnd":{"count":4},
   "+work":{"count":1},
-  "timesheet":{"count":1}
+  "1 ras-management-meeting":{"count":1},
+  "2sec-log-files":{"count":1},
+  "create-isf-for-ix-hmi-video-timeouts":{"count":1},
+  "dc-report":{"count":1},
+  "eiva-milestones\/requirements":{"count":1},
+  "equipment-list":{"count":1},
+  "ims-work":{"count":2},
+  "learn-about-task-timewarrior-taskopen":{"count":2},
+  "look-into-wireguard":{"count":1},
+  "opendns":{"count":1},
+  "openvpn-or-wireguard":{"count":1},
+  "owgp":{"count":8},
+  "review-ncr-dfr-templates":{"count":1},
+  "rnd":{"count":2},
+  "sg-dev001":{"count":1},
+  "timesheet":{"count":1},
+  "trial-1-wrap-up-meeting":{"count":1},
+  "update-sbp-firmware-test-SESCTL":{"count":1},
+  "weekly-meeting":{"count":1},
+  "windows-vnc-client":{"count":1},
+  "wp7-document-review":{"count":1}
 }

@@ -70,3 +70,350 @@ time 1648928101
 old [description:"timesheet" due:"1648724399" entry:"1648424752" modified:"1648927960" start:"1648927960" status:"pending" tags:"+work" tags_+work:"x" uuid:"c189d0d8-466d-4272-9158-3407bd2cda0e"]
 new [description:"timesheet" due:"1648724399" entry:"1648424752" modified:"1648928101" status:"pending" tags:"+work" tags_+work:"x" uuid:"c189d0d8-466d-4272-9158-3407bd2cda0e"]
 ---
+time 1648928507
+new [description:"correct-font-in-vscode" entry:"1648928507" modified:"1648928507" status:"pending" tags:"+coding" tags_+coding:"x" uuid:"2c3f11a1-95d9-4594-8220-8f098900da6c"]
+---
+time 1648928561
+new [description:"get-black-and-mypy-working-in-vscode" entry:"1648928561" modified:"1648928561" status:"pending" tags:"+coding" tags_+coding:"x" uuid:"a1874566-1817-49c3-9964-278130a1e00c"]
+---
+time 1649007624
+new [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649007624" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+---
+time 1649007629
+old [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649007624" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+new [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649007629" start:"1649007629" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+---
+time 1649007907
+old [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649007629" start:"1649007629" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+new [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649007907" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+---
+time 1649009869
+old [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649007907" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+new [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649009869" start:"1649009869" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+---
+time 1649010320
+new [description:"project :rnd opendns" entry:"1649010320" modified:"1649010320" status:"pending" uuid:"bf21588a-7246-48e8-bf86-dc2ed366d84c"]
+---
+time 1649010334
+new [description:"project :rnd openvpn-or-wireguard" entry:"1649010334" modified:"1649010334" status:"pending" uuid:"224d849f-4a40-4aad-8bd2-281d449495b7"]
+---
+time 1649010358
+old [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649009869" start:"1649009869" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+new [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649010358" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+---
+time 1649010420
+old [description:"project :rnd opendns" entry:"1649010320" modified:"1649010320" status:"pending" uuid:"bf21588a-7246-48e8-bf86-dc2ed366d84c"]
+new [description:"opendns" entry:"1649010320" modified:"1649010420" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"bf21588a-7246-48e8-bf86-dc2ed366d84c"]
+---
+time 1649010450
+old [description:"project :rnd openvpn-or-wireguard" entry:"1649010334" modified:"1649010334" status:"pending" uuid:"224d849f-4a40-4aad-8bd2-281d449495b7"]
+new [description:"openvpn-or-wireguard" entry:"1649010334" modified:"1649010450" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"224d849f-4a40-4aad-8bd2-281d449495b7"]
+---
+time 1649010479
+old [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649010358" status:"pending" tags:"rnd" tags_rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+new [description:"learn-about-task-timewarrior-taskopen" entry:"1649007624" modified:"1649010479" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"949aeef5-3965-4d2d-9908-1847a77c1b19"]
+---
+time 1649010521
+old [description:"update-seswin-test-trigger" entry:"1648755805" modified:"1648755805" project:"owgp" status:"pending" uuid:"9dbcc906-c543-4515-a364-32b268e33d07"]
+new [description:"update-seswin-test-trigger" end:"1649010521" entry:"1648755805" modified:"1649010521" project:"owgp" status:"completed" uuid:"9dbcc906-c543-4515-a364-32b268e33d07"]
+---
+time 1649010564
+old [description:"opendns" entry:"1649010320" modified:"1649010420" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"bf21588a-7246-48e8-bf86-dc2ed366d84c"]
+new [description:"opendns" entry:"1649010320" modified:"1649010564" start:"1649010564" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"bf21588a-7246-48e8-bf86-dc2ed366d84c"]
+---
+time 1649010574
+old [description:"opendns" entry:"1649010320" modified:"1649010564" start:"1649010564" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"bf21588a-7246-48e8-bf86-dc2ed366d84c"]
+new [description:"opendns" entry:"1649010320" modified:"1649010574" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"bf21588a-7246-48e8-bf86-dc2ed366d84c"]
+---
+time 1649013064
+new [description:"look-into-wireguard" entry:"1649013064" modified:"1649013064" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"2233033e-0254-40d0-9568-aa692076586b"]
+---
+time 1649013068
+old [description:"look-into-wireguard" entry:"1649013064" modified:"1649013064" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"2233033e-0254-40d0-9568-aa692076586b"]
+new [description:"look-into-wireguard" entry:"1649013064" modified:"1649013068" start:"1649013068" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"2233033e-0254-40d0-9568-aa692076586b"]
+---
+time 1649013265
+new [description:"review-ncr-dfr-templates" entry:"1649013265" modified:"1649013265" project:"owgp" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+---
+time 1649013374
+new [description:"create-isf-for-ix-hmi-video-timeouts" entry:"1649013374" modified:"1649013374" project:"owgp" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+---
+time 1649013425
+old [description:"review-ncr-dfr-templates" entry:"1649013265" modified:"1649013265" project:"owgp" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+new [description:"review-ncr-dfr-templates" due:"1649073599" entry:"1649013265" modified:"1649013425" project:"owgp" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+---
+time 1649013466
+old [description:"create-isf-for-ix-hmi-video-timeouts" entry:"1649013374" modified:"1649013374" project:"owgp" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+new [description:"create-isf-for-ix-hmi-video-timeouts" due:"1649073599" entry:"1649013374" modified:"1649013466" project:"owgp" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+---
+time 1649013494
+old [description:"eiva-milestones\/requirements" entry:"1648422629" modified:"1648422629" project:"owgp" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+new [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649013494" project:"owgp" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+---
+time 1649015039
+old [description:"look-into-wireguard" entry:"1649013064" modified:"1649013068" start:"1649013068" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"2233033e-0254-40d0-9568-aa692076586b"]
+new [description:"look-into-wireguard" entry:"1649013064" modified:"1649015039" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"2233033e-0254-40d0-9568-aa692076586b"]
+---
+time 1649015086
+new [description:"windows-vnc-client" entry:"1649015086" modified:"1649015086" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"61d1ae78-781c-4ac1-9249-46af1c7e147d"]
+---
+time 1649015099
+old [description:"windows-vnc-client" entry:"1649015086" modified:"1649015086" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"61d1ae78-781c-4ac1-9249-46af1c7e147d"]
+new [description:"windows-vnc-client" entry:"1649015086" modified:"1649015099" start:"1649015099" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"61d1ae78-781c-4ac1-9249-46af1c7e147d"]
+---
+time 1649017840
+old [description:"windows-vnc-client" entry:"1649015086" modified:"1649015099" start:"1649015099" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"61d1ae78-781c-4ac1-9249-46af1c7e147d"]
+new [annotation_1649017840:"mRemoteNG" description:"windows-vnc-client" entry:"1649015086" modified:"1649017840" start:"1649015099" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"61d1ae78-781c-4ac1-9249-46af1c7e147d"]
+---
+time 1649018456
+old [annotation_1649017840:"mRemoteNG" description:"windows-vnc-client" entry:"1649015086" modified:"1649017840" start:"1649015099" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"61d1ae78-781c-4ac1-9249-46af1c7e147d"]
+new [annotation_1649017840:"mRemoteNG" description:"windows-vnc-client" entry:"1649015086" modified:"1649018456" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"61d1ae78-781c-4ac1-9249-46af1c7e147d"]
+---
+time 1649018474
+old [description:"review-ncr-dfr-templates" due:"1649073599" entry:"1649013265" modified:"1649013425" project:"owgp" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+new [description:"review-ncr-dfr-templates" due:"1649073599" entry:"1649013265" modified:"1649018474" project:"owgp" start:"1649018474" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+---
+time 1649037352
+old [description:"review-ncr-dfr-templates" due:"1649073599" entry:"1649013265" modified:"1649018474" project:"owgp" start:"1649018474" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+new [description:"review-ncr-dfr-templates" due:"1649073599" entry:"1649013265" modified:"1649037352" project:"owgp" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+---
+time 1649037357
+old [description:"review-ncr-dfr-templates" due:"1649073599" entry:"1649013265" modified:"1649037352" project:"owgp" status:"pending" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+new [description:"review-ncr-dfr-templates" due:"1649073599" end:"1649037357" entry:"1649013265" modified:"1649037357" project:"owgp" status:"completed" uuid:"06cc11b5-ebcc-4102-85d8-8152deae7b32"]
+---
+time 1649044862
+old [description:"create-isf-for-ix-hmi-video-timeouts" due:"1649073599" entry:"1649013374" modified:"1649013466" project:"owgp" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+new [description:"create-isf-for-ix-hmi-video-timeouts" due:"1649073599" entry:"1649013374" modified:"1649044862" project:"owgp" start:"1649044862" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+---
+time 1649044925
+old [description:"create-isf-for-ix-hmi-video-timeouts" due:"1649073599" entry:"1649013374" modified:"1649044862" project:"owgp" start:"1649044862" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+new [description:"create-isf-for-ix-hmi-video-timeouts" due:"1649073599" entry:"1649013374" modified:"1649044925" project:"owgp" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+---
+time 1649044930
+old [description:"create-isf-for-ix-hmi-video-timeouts" due:"1649073599" entry:"1649013374" modified:"1649044925" project:"owgp" status:"pending" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+new [description:"create-isf-for-ix-hmi-video-timeouts" due:"1649073599" end:"1649044930" entry:"1649013374" modified:"1649044930" project:"owgp" status:"completed" uuid:"d412cb63-7c24-47b8-8dd4-56af86b89771"]
+---
+time 1649046687
+old [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649013494" project:"owgp" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+new [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649046687" project:"owgp" start:"1649046687" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+---
+time 1649098122
+new [description:"2sec-log-files" entry:"1649098122" modified:"1649098122" project:"owgp" status:"pending" uuid:"90dbbdfe-bc63-4e2f-866d-8d09cdc4ace0"]
+---
+time 1649098131
+old [description:"2sec-log-files" entry:"1649098122" modified:"1649098122" project:"owgp" status:"pending" uuid:"90dbbdfe-bc63-4e2f-866d-8d09cdc4ace0"]
+new [description:"2sec-log-files" entry:"1649098122" modified:"1649098131" project:"owgp" start:"1649098131" status:"pending" uuid:"90dbbdfe-bc63-4e2f-866d-8d09cdc4ace0"]
+---
+time 1649106475
+old [description:"2sec-log-files" entry:"1649098122" modified:"1649098131" project:"owgp" start:"1649098131" status:"pending" uuid:"90dbbdfe-bc63-4e2f-866d-8d09cdc4ace0"]
+new [description:"2sec-log-files" entry:"1649098122" modified:"1649106475" project:"owgp" status:"pending" uuid:"90dbbdfe-bc63-4e2f-866d-8d09cdc4ace0"]
+---
+time 1649106479
+old [description:"2sec-log-files" entry:"1649098122" modified:"1649106475" project:"owgp" status:"pending" uuid:"90dbbdfe-bc63-4e2f-866d-8d09cdc4ace0"]
+new [description:"2sec-log-files" end:"1649106479" entry:"1649098122" modified:"1649106479" project:"owgp" status:"completed" uuid:"90dbbdfe-bc63-4e2f-866d-8d09cdc4ace0"]
+---
+time 1649110129
+old [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649046687" project:"owgp" start:"1649046687" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+new [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649110129" project:"owgp" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+---
+time 1649110139
+old [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649110129" project:"owgp" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+new [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649110139" project:"owgp" start:"1649110139" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+---
+time 1649124673
+old [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649110139" project:"owgp" start:"1649110139" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+new [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649124673" project:"owgp" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+---
+time 1649124676
+old [description:"eiva-milestones\/requirements" due:"1649073599" entry:"1648422629" modified:"1649124673" project:"owgp" status:"pending" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+new [description:"eiva-milestones\/requirements" due:"1649073599" end:"1649124676" entry:"1648422629" modified:"1649124676" project:"owgp" status:"completed" uuid:"f294b63f-66d1-48b1-b590-ee27e98241ce"]
+---
+time 1649124712
+new [description:"update-sbp-firmware-test-" entry:"1649124712" modified:"1649124712" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+---
+time 1649124739
+old [description:"update-sbp-firmware-test-" entry:"1649124712" modified:"1649124712" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+new [description:"update-sbp-firmware-test-" due:"1649159999" entry:"1649124712" modified:"1649124739" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+---
+time 1649124770
+old [description:"update-sbp-firmware-test-" due:"1649159999" entry:"1649124712" modified:"1649124739" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+new [description:"update-sbp-firmware-test-SESCTL" due:"1649159999" entry:"1649124712" modified:"1649124770" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+---
+time 1649127391
+old [description:"update-sbp-firmware-test-SESCTL" due:"1649159999" entry:"1649124712" modified:"1649124770" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+new [description:"update-sbp-firmware-test-SESCTL" due:"1649159999" entry:"1649124712" modified:"1649127391" project:"owgp" start:"1649127391" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+---
+time 1649136214
+old [description:"update-sbp-firmware-test-SESCTL" due:"1649159999" entry:"1649124712" modified:"1649127391" project:"owgp" start:"1649127391" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+new [description:"update-sbp-firmware-test-SESCTL" due:"1649159999" entry:"1649124712" modified:"1649136214" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+---
+time 1649143420
+new [description:"1 ras-management-meeting" entry:"1649143420" modified:"1649143420" status:"pending" uuid:"d2b6937f-bce1-4a59-be5e-e569f58b54f5"]
+---
+time 1649143440
+old [description:"1 ras-management-meeting" entry:"1649143420" modified:"1649143420" status:"pending" uuid:"d2b6937f-bce1-4a59-be5e-e569f58b54f5"]
+new [description:"1 ras-management-meeting" entry:"1649143420" modified:"1649143440" start:"1649143440" status:"pending" uuid:"d2b6937f-bce1-4a59-be5e-e569f58b54f5"]
+---
+time 1649183464
+new [description:"wp7-document-review" entry:"1649183464" modified:"1649183464" project:"owgp" status:"pending" uuid:"b7077367-cb48-46ac-9a20-58a24e829890"]
+---
+time 1649183468
+old [description:"wp7-document-review" entry:"1649183464" modified:"1649183464" project:"owgp" status:"pending" uuid:"b7077367-cb48-46ac-9a20-58a24e829890"]
+new [description:"wp7-document-review" entry:"1649183464" modified:"1649183468" project:"owgp" start:"1649183467" status:"pending" uuid:"b7077367-cb48-46ac-9a20-58a24e829890"]
+---
+time 1649183870
+new [description:"close-fugro-corrections" entry:"1649183870" modified:"1649183870" project:"owgp" status:"pending" uuid:"24091d99-bc25-4cbd-bb42-c6f9aa8ef6e0"]
+---
+time 1649183889
+new [description:"email-ole-let-him-know-we-are-done" entry:"1649183889" modified:"1649183889" project:"owgp" status:"pending" uuid:"6a034c05-aca6-4bec-9a52-d5f9fb7cb5ad"]
+---
+time 1649184473
+old [description:"wp7-document-review" entry:"1649183464" modified:"1649183468" project:"owgp" start:"1649183467" status:"pending" uuid:"b7077367-cb48-46ac-9a20-58a24e829890"]
+new [description:"wp7-document-review" entry:"1649183464" modified:"1649184473" project:"owgp" status:"pending" uuid:"b7077367-cb48-46ac-9a20-58a24e829890"]
+---
+time 1649184477
+old [description:"wp7-document-review" entry:"1649183464" modified:"1649184473" project:"owgp" status:"pending" uuid:"b7077367-cb48-46ac-9a20-58a24e829890"]
+new [description:"wp7-document-review" end:"1649184477" entry:"1649183464" modified:"1649184477" project:"owgp" status:"completed" uuid:"b7077367-cb48-46ac-9a20-58a24e829890"]
+---
+time 1649184502
+new [description:"trial-1-meeting" entry:"1649184502" modified:"1649184502" project:"owgp" status:"pending" uuid:"f000bdaf-ad1d-4f65-af7e-c687c7ebc34e"]
+---
+time 1649184627
+new [description:"trial-1-meeting" entry:"1649184627" modified:"1649184627" project:"owgp" status:"pending" uuid:"e82618cf-f63c-49b2-87a4-9bf9c737b41c"]
+---
+time 1649184639
+old [description:"dc-report" entry:"1648418776" modified:"1648419502" project:"owgp" status:"pending" uuid:"63074c94-dd9d-4e34-88cc-9b30799a3224"]
+new [description:"dc-report" entry:"1648418776" modified:"1649184639" project:"owgp" start:"1649184639" status:"pending" uuid:"63074c94-dd9d-4e34-88cc-9b30799a3224"]
+---
+time 1649185192
+old [description:"dc-report" entry:"1648418776" modified:"1649184639" project:"owgp" start:"1649184639" status:"pending" uuid:"63074c94-dd9d-4e34-88cc-9b30799a3224"]
+new [description:"dc-report" entry:"1648418776" modified:"1649185192" project:"owgp" status:"pending" uuid:"63074c94-dd9d-4e34-88cc-9b30799a3224"]
+---
+time 1649191764
+new [description:"ixblue-driver-std-bin-protocol" entry:"1649191764" modified:"1649191764" status:"pending" uuid:"e2fc2008-64b2-4c5f-84dc-bd8763da6738"]
+---
+time 1649192420
+new [description:"equipment-list" due:"1649246399" entry:"1649192420" modified:"1649192420" project:"sg-dev001" status:"pending" uuid:"d0115af3-b133-4376-b3d1-ab7b400913a2"]
+---
+time 1649199887
+old [description:"equipment-list" due:"1649246399" entry:"1649192420" modified:"1649192420" project:"sg-dev001" status:"pending" uuid:"d0115af3-b133-4376-b3d1-ab7b400913a2"]
+new [description:"equipment-list" due:"1649246399" entry:"1649192420" modified:"1649199887" project:"sg-dev001" start:"1649199887" status:"pending" uuid:"d0115af3-b133-4376-b3d1-ab7b400913a2"]
+---
+time 1649209524
+old [description:"equipment-list" due:"1649246399" entry:"1649192420" modified:"1649199887" project:"sg-dev001" start:"1649199887" status:"pending" uuid:"d0115af3-b133-4376-b3d1-ab7b400913a2"]
+new [description:"equipment-list" due:"1649246399" entry:"1649192420" modified:"1649209524" project:"sg-dev001" status:"pending" uuid:"d0115af3-b133-4376-b3d1-ab7b400913a2"]
+---
+time 1649209527
+old [description:"equipment-list" due:"1649246399" entry:"1649192420" modified:"1649209524" project:"sg-dev001" status:"pending" uuid:"d0115af3-b133-4376-b3d1-ab7b400913a2"]
+new [description:"equipment-list" due:"1649246399" end:"1649209527" entry:"1649192420" modified:"1649209527" project:"sg-dev001" status:"completed" uuid:"d0115af3-b133-4376-b3d1-ab7b400913a2"]
+---
+time 1649209612
+new [description:"nav-binary-driver-output-gga-zda-to-innomar" entry:"1649209612" modified:"1649209612" project:"owgp" status:"pending" uuid:"419b8252-ffaf-4452-af2c-bbdc3d26bc90"]
+---
+time 1649210587
+old [description:"1 ras-management-meeting" entry:"1649143420" modified:"1649143440" start:"1649143440" status:"pending" uuid:"d2b6937f-bce1-4a59-be5e-e569f58b54f5"]
+new [description:"1 ras-management-meeting" entry:"1649143420" modified:"1649210587" status:"pending" uuid:"d2b6937f-bce1-4a59-be5e-e569f58b54f5"]
+---
+time 1649210630
+old [description:"1 ras-management-meeting" entry:"1649143420" modified:"1649210587" status:"pending" uuid:"d2b6937f-bce1-4a59-be5e-e569f58b54f5"]
+new [description:"1 ras-management-meeting" end:"1649210622" entry:"1649143420" modified:"1649210630" status:"deleted" uuid:"d2b6937f-bce1-4a59-be5e-e569f58b54f5"]
+---
+time 1649210630
+old [description:"trial-1-meeting" entry:"1649184502" modified:"1649184502" project:"owgp" status:"pending" uuid:"f000bdaf-ad1d-4f65-af7e-c687c7ebc34e"]
+new [description:"trial-1-meeting" end:"1649210630" entry:"1649184502" modified:"1649210630" project:"owgp" status:"deleted" uuid:"f000bdaf-ad1d-4f65-af7e-c687c7ebc34e"]
+---
+time 1649210630
+old [description:"trial-1-meeting" entry:"1649184627" modified:"1649184627" project:"owgp" status:"pending" uuid:"e82618cf-f63c-49b2-87a4-9bf9c737b41c"]
+new [description:"trial-1-meeting" end:"1649210630" entry:"1649184627" modified:"1649210630" project:"owgp" status:"deleted" uuid:"e82618cf-f63c-49b2-87a4-9bf9c737b41c"]
+---
+time 1649210667
+old [description:"update-sbp-firmware-test-SESCTL" due:"1649159999" entry:"1649124712" modified:"1649136214" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+new [description:"update-sbp-firmware-test-SESCTL" due:"1649591999" entry:"1649124712" modified:"1649210667" project:"owgp" status:"pending" uuid:"7f1c9056-7e1c-4fc6-83e8-16c7e8e6eb4c"]
+---
+time 1649210706
+old [description:"close-fugro-corrections" entry:"1649183870" modified:"1649183870" project:"owgp" status:"pending" uuid:"24091d99-bc25-4cbd-bb42-c6f9aa8ef6e0"]
+new [description:"close-fugro-corrections" end:"1649210706" entry:"1649183870" modified:"1649210706" project:"owgp" status:"completed" uuid:"24091d99-bc25-4cbd-bb42-c6f9aa8ef6e0"]
+---
+time 1649210981
+old [description:"email-ole-let-him-know-we-are-done" entry:"1649183889" modified:"1649183889" project:"owgp" status:"pending" uuid:"6a034c05-aca6-4bec-9a52-d5f9fb7cb5ad"]
+new [description:"email-ole-let-him-know-we-are-done" end:"1649210981" entry:"1649183889" modified:"1649210981" project:"owgp" status:"completed" uuid:"6a034c05-aca6-4bec-9a52-d5f9fb7cb5ad"]
+---
+time 1649211008
+old [description:"look-into-wireguard" entry:"1649013064" modified:"1649015039" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"2233033e-0254-40d0-9568-aa692076586b"]
+new [description:"look-into-wireguard" end:"1649211008" entry:"1649013064" modified:"1649211008" status:"completed" tags:"+rnd" tags_+rnd:"x" uuid:"2233033e-0254-40d0-9568-aa692076586b"]
+---
+time 1649211065
+old [description:"ixblue-driver-std-bin-protocol" entry:"1649191764" modified:"1649191764" status:"pending" uuid:"e2fc2008-64b2-4c5f-84dc-bd8763da6738"]
+new [description:"ixblue-driver-std-bin-protocol" entry:"1649191764" modified:"1649211065" status:"pending" tags:"+coding" tags_+coding:"x" uuid:"e2fc2008-64b2-4c5f-84dc-bd8763da6738"]
+---
+time 1649276982
+new [description:"trial-1-wrap-up-meeting" entry:"1649276982" modified:"1649276982" project:"owgp" status:"pending" uuid:"a8647864-933d-4e2b-829f-ed7dd1ea3846"]
+---
+time 1649276990
+old [description:"trial-1-wrap-up-meeting" entry:"1649276982" modified:"1649276982" project:"owgp" status:"pending" uuid:"a8647864-933d-4e2b-829f-ed7dd1ea3846"]
+new [description:"trial-1-wrap-up-meeting" entry:"1649276982" modified:"1649276990" project:"owgp" start:"1649276989" status:"pending" uuid:"a8647864-933d-4e2b-829f-ed7dd1ea3846"]
+---
+time 1649277182
+old [description:"trial-1-wrap-up-meeting" entry:"1649276982" modified:"1649276990" project:"owgp" start:"1649276989" status:"pending" uuid:"a8647864-933d-4e2b-829f-ed7dd1ea3846"]
+new [description:"trial-1-wrap-up-meeting" entry:"1649276982" modified:"1649277182" project:"owgp" status:"pending" uuid:"a8647864-933d-4e2b-829f-ed7dd1ea3846"]
+---
+time 1649379033
+old [description:"openvpn-or-wireguard" entry:"1649010334" modified:"1649010450" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"224d849f-4a40-4aad-8bd2-281d449495b7"]
+new [description:"openvpn-or-wireguard" entry:"1649010334" modified:"1649379033" start:"1649379032" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"224d849f-4a40-4aad-8bd2-281d449495b7"]
+---
+time 1649703584
+new [description:"fix-up-some-documents" entry:"1649703584" modified:"1649703584" status:"pending" tags:"+ims" tags_+ims:"x" uuid:"89033358-bfa8-4236-a02a-dd4152c26df9"]
+---
+time 1649703594
+old [description:"openvpn-or-wireguard" entry:"1649010334" modified:"1649379033" start:"1649379032" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"224d849f-4a40-4aad-8bd2-281d449495b7"]
+new [description:"openvpn-or-wireguard" entry:"1649010334" modified:"1649703594" status:"pending" tags:"+rnd" tags_+rnd:"x" uuid:"224d849f-4a40-4aad-8bd2-281d449495b7"]
+---
+time 1649705080
+new [description:"add-create-responsibilities-document" entry:"1649705080" modified:"1649705080" status:"pending" tags:"+doc" tags_+doc:"x" uuid:"dd036b0d-86fc-4865-ba29-c54a320d1a05"]
+---
+time 1649740827
+old [description:"add-create-responsibilities-document" entry:"1649705080" modified:"1649705080" status:"pending" tags:"+doc" tags_+doc:"x" uuid:"dd036b0d-86fc-4865-ba29-c54a320d1a05"]
+new [description:"add-create-responsibilities-document" end:"1649740827" entry:"1649705080" modified:"1649740827" status:"completed" tags:"+doc" tags_+doc:"x" uuid:"dd036b0d-86fc-4865-ba29-c54a320d1a05"]
+---
+time 1649740834
+old [description:"fix-up-some-documents" entry:"1649703584" modified:"1649703584" status:"pending" tags:"+ims" tags_+ims:"x" uuid:"89033358-bfa8-4236-a02a-dd4152c26df9"]
+new [description:"fix-up-some-documents" end:"1649740834" entry:"1649703584" modified:"1649740834" status:"completed" tags:"+ims" tags_+ims:"x" uuid:"89033358-bfa8-4236-a02a-dd4152c26df9"]
+---
+time 1649740855
+old [description:"trial-1-wrap-up-meeting" entry:"1649276982" modified:"1649277182" project:"owgp" status:"pending" uuid:"a8647864-933d-4e2b-829f-ed7dd1ea3846"]
+new [description:"trial-1-wrap-up-meeting" end:"1649740855" entry:"1649276982" modified:"1649740855" project:"owgp" status:"completed" uuid:"a8647864-933d-4e2b-829f-ed7dd1ea3846"]
+---
+time 1650308044
+new [description:"weekly-meeting" entry:"1650308044" modified:"1650308044" status:"pending" uuid:"c43b5b70-e293-48b5-8e88-16b6c002443e"]
+---
+time 1650308079
+old [description:"weekly-meeting" entry:"1650308044" modified:"1650308044" status:"pending" uuid:"c43b5b70-e293-48b5-8e88-16b6c002443e"]
+new [description:"weekly-meeting" entry:"1650308044" modified:"1650308079" start:"1650308079" status:"pending" uuid:"c43b5b70-e293-48b5-8e88-16b6c002443e"]
+---
+time 1650308920
+old [description:"weekly-meeting" entry:"1650308044" modified:"1650308079" start:"1650308079" status:"pending" uuid:"c43b5b70-e293-48b5-8e88-16b6c002443e"]
+new [description:"weekly-meeting" entry:"1650308044" modified:"1650308920" status:"pending" uuid:"c43b5b70-e293-48b5-8e88-16b6c002443e"]
+---
+time 1650309032
+new [description:"ims-work" entry:"1650309032" modified:"1650309032" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+---
+time 1650309038
+old [description:"ims-work" entry:"1650309032" modified:"1650309032" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+new [description:"ims-work" entry:"1650309032" modified:"1650309038" start:"1650309038" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+---
+time 1650309043
+old [description:"weekly-meeting" entry:"1650308044" modified:"1650308920" status:"pending" uuid:"c43b5b70-e293-48b5-8e88-16b6c002443e"]
+new [description:"weekly-meeting" end:"1650309043" entry:"1650308044" modified:"1650309043" status:"completed" uuid:"c43b5b70-e293-48b5-8e88-16b6c002443e"]
+---
+time 1650311396
+old [description:"ims-work" entry:"1650309032" modified:"1650309038" start:"1650309038" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+new [description:"ims-work" entry:"1650309032" modified:"1650311396" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+---
+time 1650313568
+old [description:"ims-work" entry:"1650309032" modified:"1650311396" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+new [description:"ims-work" entry:"1650309032" modified:"1650313568" start:"1650313568" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+---
+time 1650324117
+old [description:"ims-work" entry:"1650309032" modified:"1650313568" start:"1650313568" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+new [description:"ims-work" entry:"1650309032" modified:"1650324117" status:"pending" uuid:"13d4c5d2-03dd-4009-a26b-f53dca0169c4"]
+---
